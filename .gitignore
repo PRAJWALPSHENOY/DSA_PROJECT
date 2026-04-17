@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Generated artifacts
+artifacts/datasets/*.csv
+artifacts/models/*.pkl
+artifacts/models/*.json
+# Editor
+.vscode/
+
+# Large PGN files
+artifacts/datasets/*.pgn
+artifacts/datasets/*.json
+
+# PowerPoint (optional)
+*.pptx
+
+# OS files
+Thumbs.db
+.DS_Store
+
+

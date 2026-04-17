@@ -1,0 +1,10 @@
+game,config,metric,value
+tic_tac_toe,nn_eval,win_rate_vs_baseline,0.25
+tic_tac_toe,nn_order,win_rate_vs_baseline,0.5
+tic_tac_toe,full_hybrid,win_rate_vs_baseline,0.25
+connect_four,nn_eval,win_rate_vs_baseline,0.0
+connect_four,nn_order,win_rate_vs_baseline,0.25
+connect_four,full_hybrid,win_rate_vs_baseline,0.0
+chess,nn_eval,win_rate_vs_baseline,0.25
+chess,nn_order,win_rate_vs_baseline,0.5
+chess,full_hybrid,win_rate_vs_baseline,0.0
